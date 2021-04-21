@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-04-21T00:01:12+05:00</lastmod>
+  </url><url>
+    <loc>/post/my-cv/</loc>
+    <lastmod>2021-04-21T00:01:12+05:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-04-21T00:01:12+05:00</lastmod>
+  </url><url>
+    <loc>/post/description/</loc>
+    <lastmod>2021-04-20T20:02:09+05:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/series/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>

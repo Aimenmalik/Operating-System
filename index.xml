@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aimen Malik</title>
+    <link>/</link>
+    <description>Recent content on Aimen Malik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_US</language>
+    <lastBuildDate>Wed, 21 Apr 2021 00:01:12 +0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Cv</title>
+      <link>/post/my-cv/</link>
+      <pubDate>Wed, 21 Apr 2021 00:01:12 +0500</pubDate>
+      
+      <guid>/post/my-cv/</guid>
+      <description>Description: I am Aimen Malik currently in fourth semester of my undergraduate degree from National University Of sciences and technology. My major interest is in Web development. uguigu  Handles:  Facebook : https://www.facebook.com/aimen.malik.315 Instagram : aimenmalik956 Github : amalik.bscs19seecs@seecs.edu.pk  Education:   Bachelor of Computer Science
+ NUST University ,Islamabad    Higher Secondary Education
+ Punjab College , Lahore Marks : 990/110    Secondary</description>
+    </item>
+    
+    <item>
+      <title>Description Of Operating System</title>
+      <link>/post/description/</link>
+      <pubDate>Tue, 20 Apr 2021 20:02:09 +0500</pubDate>
+      
+      <guid>/post/description/</guid>
+      <description>Introduction: We are making an X86 compatilbe operating system which is multiboot compiled. It is written in C language (Visual studio code) and in assembly language. We are creating a docker image.
+  buildenv: Our image , which is based on the already made gcc image tools, is created in a docker file that contains all the sets we need to create our build environment image. Docker simplies our process.</description>
+    </item>
+    
+  </channel>
+</rss>
